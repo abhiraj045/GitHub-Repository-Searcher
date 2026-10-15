@@ -1,0 +1,4 @@
+com\example\githubsearcher\service\GithubRepositoryServiceTest.class
+com\example\githubsearcher\repository\GithubRepositoryRepositoryTest.class
+com\example\githubsearcher\controller\GithubControllerTest.class
+com\example\githubsearcher\SortFieldTest.class
